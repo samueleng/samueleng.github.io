@@ -1,0 +1,13 @@
+/* XPM */
+static char *t[] = {
+"8 8 2 1",
+"a c #FF0000",
+"b c #0000FF",
+"aaaaaaaa",
+"abababab",
+"babababa",
+"abababab",
+"babababa",
+"abababab",
+"bbbbbbbb"
+};
